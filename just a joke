@@ -1,10 +1,10 @@
-print("THIS IS A JOKE PLEASE DO NOT ENTER YOUR ACTUAL DETAILS, PLEASE DONT TAKE ANY OFFENCE TO IT")
+print("THIS IS A JOKE DO NOT ENTER YOUR ACTUAL DETAILS, PLEASE DONT TAKE ANY OFFENCE TO IT")
 
 
 
 
 
-print("Welcome to our £100M giveaway, sponsered by barclaysbank.in!")
+print("Welcome to our £100M giveaway, sponsered by barclaysbank.jp!")
 print("First, please fill out the following form to enter.")
 
 ans1 = input("1. Name>>> ")
@@ -25,4 +25,4 @@ ans7 = input("Yes or no")
 
 print("You have been entered to the giveaway! Check your voicemail for the details.")
 
-print("btw, jS so u know tHer is nO giv3awAy anD U js GoT skAMed")
+print("lol get scammed")
