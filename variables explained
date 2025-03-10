@@ -1,0 +1,27 @@
+#variables explained
+#a variable is:
+#a named location...
+#in a computers memory...
+#it stores a value...
+#and the value can change
+
+#example:
+club = "ac milan"
+#the variable is called club
+#the value is "ac milan"
+#i will now change the value
+club = "liverpool"
+#variables can store different
+#types of data
+#eg. numbers, letters etc
+
+#the best programmers
+#make sure the variable name
+#is descriptive
+#eg.
+teamAyellowcards = 0
+#The variable above has...
+#a very descriptive name
+x = 1
+#this variable has a poor...
+#name
