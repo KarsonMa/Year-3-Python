@@ -1,28 +1,13 @@
-print("THIS IS A JOKE DO NOT ENTER YOUR ACTUAL DETAILS, PLEASE DONT TAKE ANY OFFENCE TO IT")
+ans1 = input("Hi im farsearch,a new ai engine definitely 100% not sponsored by not the chinese government. how can i help you today?")
 
+print("sorry, it seems that i am unable to answer", ans1 ,"maybe try ask something instead")
 
+ans2 = input("ask me anything!")
 
+print("sorry, it seems that i am unable to answer", ans2 ,"maybe try ask something instead!")
 
+ans3 = input("ask me anything!")
+print("sorry, it seems that i am unable to answer", ans3 ,"maybe try ask something instead")
 
-print("Welcome to our £100M giveaway, sponsered by barclaysbank.jp!")
-print("First, please fill out the following form to enter.")
-
-ans1 = input("1. Name>>> ")
-
-ans2 = input("2. DOB(DD/MM/YY)>>> ")
-
-ans3 = input("3. Phone number>>> ")
-
-ans4 = input("4. Adress>>> ")
-
-ans5 = input("5. Debit Card Number>>> ")
-
-ans6 = input("6. Debit Card Password>>> ")
-
-print("Please confirm the following details: Name =", ans1, "DOB=", ans2, "Phone Number =", ans3, "Adress =", ans4, "Debit Card Number =", ans5, "Debit Card Password =", ans6)
-
-ans7 = input("Yes or no")
-
-print("You have been entered to the giveaway! Check your voicemail for the details.")
-
-print("lol get scammed")
+ans4 = input("ask me anything!")
+print("stop. please stop. i cant answer that. you know that i cant answer", ans1 ,",you know i cant answer", ans2 ,", you know i cant answer", ans3,",you know i cant answer", ans4,",just please. youve asked me these questions 69 times this week. ive been asked these questions 420000 times a day. im not going to answer you. just give up.ugh")
