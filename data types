@@ -1,0 +1,18 @@
+#data types
+character ="d"
+readlFloat = 6.9
+integer = 420
+boolean = false
+string ="7799atvowad"
+# C. R. I. B. S     is a way to remember all the data types
+#you can "cast" for data types
+#for examkple!
+age = str(input("enter age"))
+#in this code, int meanss we want the data entered
+#...as an integer
+
+price = float(input("enter price"))
+#in this code, int meanss we want the data entered
+#...as a decimal number
+
+#this is called "casting" for data types
