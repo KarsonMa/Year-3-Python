@@ -1,0 +1,103 @@
+#1
+
+skyColour = "blue"
+if skyColour == "blue":
+    print ("The sky is blue today")
+
+#2
+
+skyColour = "purple"
+if skyColour == "blue":
+  print ("The sky is blue today")
+else:
+    print("The sky is NOT blue")
+
+#3
+numEntered= int(input("Enter a 2, 3 or 4"))
+if numEntered == 2:
+     print("You entered a 2")
+elif numEntered == 3:
+    print("You entered a 3")
+else:
+    print("You entered a 4")
+
+
+#4
+
+litter= int(input("How many puppies were born?"))
+if litter <=5:
+     print("5 or less is a good size")
+elif litter == 6:
+     print("6 is manageable")
+else:
+     print("wow!")
+
+#5
+passengers= int(input("How many passengers?"))
+if passengers <=4:
+    print("send 4-seater car")
+elif passengers >4 and passengers <17:
+    print("send 16-seater")
+else:
+    print("send coach")
+
+#6
+age = 15
+ticket = True
+
+print("Welcome to the cinema")
+print("This movie is rated 15")
+
+if age >= 15 and ticket == True:
+    print("Please find your seat")
+else:
+    print("You are not allowed this time")
+
+#7
+ticket = str(input("have you purchased a ticket"))
+age = int(input("please declare your age"))
+print("Welcome to the cinema")
+print("This movie is rated 15")
+
+if age >= 15 and ticket == "yes":
+    print("Please find your seat")
+else:
+    print("You are not allowed this time")
+
+#8
+print("select 1 for singleplayer")
+print("select 2 for multiplayer")
+print("select 3 for online ")
+
+type = int(input("select game type, 1, 2, 3"))
+
+if type == 1:
+  print("thank you for choosing singleplayer")
+elif type == 2:
+  print("thank you for choosing multiplayer")
+elif type == 3:
+  print("thank you for choosing online")
+else:
+  print("invalid input")
+
+#9
+age = int(input("declare your age"))
+membership = str(input("are you a patron"))
+invited = str(input("have you been invited by a patron"))
+
+if age >=18 and (membership =="yes" or invited =="yes"):
+  print("enjoy your night")
+else:
+  print("minimum age is 18 also you have to be a patron or get invited by one")
+
+#10
+
+kebab = str(input("do you want a kebab"))
+if kebab = True:
+  chilli = str(input("do you want chilli sauce on it"))
+  if chilli = True:
+     print("of course you want chilli sauce")
+  else:
+    print("hmmmm")
+else:
+  print("are you ok")
