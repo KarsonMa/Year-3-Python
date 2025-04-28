@@ -1,0 +1,80 @@
+#For loop challenge1 (GCSECS.COM)
+
+for i in range(10):
+  print("kebab")
+
+
+#For loop challenge2
+
+for i in range(0, 37, 3):
+    print(i)
+
+
+#For loop challenge3 (GCSECS.COM)
+
+name = str(input("Input your name>>>"))
+times = int(input("How many times>>>"))
+for i in range(times):
+ print(name)
+
+
+#For loop challenge4(GCSECS.COM)
+
+number = int(input("Enter a times table: "))
+for i in range(1,13):
+ print(i ,"x", number, "=", i*number)
+print("showing the",number,"times table")
+
+
+#For loop challenge5 (GCSECS.COM)
+
+for i in range(10, 0, -1):
+ print (i)
+print("!!Blast off!!")
+
+
+#For loop challenge6 (GCSECS.COM)
+
+rainbow =["red","orange","yellow","green","blue","indigo", "violet"]
+number = 0 
+for i in rainbow:
+  number = number + 1
+  print ("Colour",number,"is",i)
+
+
+  #For loop challenge7 (GCSECS.COM)
+
+number = int(input("number below 100>>"))
+for i in range(0,-1):
+ print(i)
+
+
+#For loop challenge8 (GCSECS.COM)
+
+import random
+for i in range(6):
+ a = random.randint(0,50)
+ print(a)
+
+
+ #For loop challenge9 (GCSECS.COM)
+
+ import random
+
+money = [0,1,10,100,1000,10000,100000]
+mselected = random.choice(money)
+
+for i in range(1,9):
+  print("player",i,"gets",mselected,"extra")
+  mselected = random.choice(money)
+
+
+  #For loop challenge10 (GCSECS.COM)
+
+numHouses = int(input("how many houses>>"))
+for i in range(1, numHouses+1):
+ print("for house",i)
+ numWalls = int(input("how many walls>>"))
+ for i in range(1, numWalls+1):
+   print("for wall",i)
+   col = str(input("what colour is it>>"))
